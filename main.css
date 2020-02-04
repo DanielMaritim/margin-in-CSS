@@ -1,0 +1,10 @@
+p {
+	background-color:lightblue;
+}
+p.one {
+	margin-top:10px;
+	margin-bottom:100px;
+	margin-right:150px;
+	margin-left:10px;
+}
+/*change the values around to see how it looks,also use percentage or em to see how it behaves*/
