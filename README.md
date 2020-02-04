@@ -1,0 +1,2 @@
+# margin-in-CSS
+Margin is basically the  space between and element and the edge of the document.Margin is used to create space between elements.It has four values ie top,bottom,right and left.CSS uses the margin-top,margon-bottom,margin-right and margin-left to set this space between elements and the document.It can be in pexel,percentage or em.It can also be written as shorthand where the property margin takes all parameters.
